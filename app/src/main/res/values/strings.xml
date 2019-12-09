@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="a_login_label_email">Email</string>
+    <string name="a_login_label_password">Password</string>
+    <string name="a_login_label_signup">Signup</string>
+    <string name="a_login_label_Ok">Signin</string>
+    <string name="a_login_label_Registered">Not Yet Registered</string>
+    <string name="a_login_label_Signin">Signin</string>
+    <string name="title_activity_home">Home</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+</resources>
